@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alejandro Leonidas",
+      "telefono": "1234",
+      "empresa": "tisi",
+      "correo": "zackfxf@gmail.com",
+      "imagen": "https://image.freepik.com/foto-gratis/retrato-hombre-feliz-sonriente-pie_171337-4831.jpg",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel Legua",
+      "telefono": "94723",
+      "empresa": "tisi",
+      "imagen": "https://pymstatic.com/44247/conversions/arturo-torres-medium.jpg",
+      "correo": "zackfxf@gmail.comti",
+      "id": 3
+    }
+  ]
+}
